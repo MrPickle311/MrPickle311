@@ -39,10 +39,7 @@
 
 <p align="center">
   <a href="https://github.com/MrPickle311/titan-gitops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=titan-gitops&theme=radical&hide_border=true" alt="titan-gitops" width="48%" />
-  </a>
-  <a href="https://github.com/MrPickle311/[OTHER_REPO_NAME]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=[OTHER_REPO_NAME]&theme=radical&hide_border=true" alt="Another Project" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=titan-gitops&theme=radical&hide_border=true" alt="titan-gitops" />
   </a>
 </p>
 
