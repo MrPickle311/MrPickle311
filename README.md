@@ -39,8 +39,8 @@
 ### 🏆 Wyróżnione projekty
 
 <p align="center">
-  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_1&theme=radical&hide_border=true" alt="Projekt 1" width="48%" />
+  <a href="[https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_1](https://github.com/MrPickle311/titan-gitops)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=titan-gitops&theme=radical&hide_border=true" alt="Projekt 1" width="48%" />
   </a>
   <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_2&theme=radical&hide_border=true" alt="Projekt 2" width="48%" />
