@@ -1,58 +1,50 @@
-<h1 align="center">Cześć! Jestem [Twoje Imię] 👋</h1>
+<h1 align="center">Hi there! I'm [Your Name] 👋</h1>
 
-<h3 align="center">Pasjonat programowania / [Twój Zawód np. Frontend Developer] z Polski 🇵🇱</h3>
+<h3 align="center">Java Developer from Poland 🇵🇱</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[twój-profil]" target="_blank">
+  <a href="https://linkedin.com/in/[your-profile]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[link do twojego portfolio/bloga]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 O mnie
+### 👨‍💻 About Me
 
-* 🔭 Obecnie rozwijam: **[Nazwa Twojego super projektu, np. aplikację do zarządzania czasem]**
-* 🌱 Aktualnie uczę się: **[Np. architektury chmurowej na AWS i TypeScriptu]**
-* 👯 Szukam współpracy przy: **[Np. ciekawych projektach Open Source]**
-* 💬 Zapytaj mnie o: **[Technologie, w których czujesz się mocny]**
-* 📫 Jak się ze mną skontaktować: **[Twój email lub link]**
-* ⚡ Ciekawostka: **[Np. Rozwiązuję kostkę Rubika w 30 sekund 🧊]**
+* 🔭 Currently working on: **[titan-gitops and other Java applications]**
+* 🌱 Currently learning: **[e.g., Advanced Design Patterns, Spring Boot 3, Kubernetes]**
+* 👯 Looking to collaborate on: **[Interesting Open Source Java projects]**
+* 📫 How to reach me: **[Your email address]**
 
-### 🛠️ Technologie i narzędzia
+### 🛠️ Technologies & Tools
 
 <p align="left">
-  <!-- Przykładowe odznaki technologii - możesz dodać ich więcej! -->
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-
 ---
 
-### 🏆 Wyróżnione projekty
+### 🏆 Featured Projects
 
 <p align="center">
-  <a href="[https://github.com/MrPickle311/titan-gitops&](https://github.com/MrPickle311/titan-gitops)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=titan-gitops&theme=radical&hide_border=true" alt="Projekt 1" width="48%" />
+  <a href="https://github.com/MrPickle311/titan-gitops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=titan-gitops&theme=radical&hide_border=true" alt="titan-gitops" width="48%" />
   </a>
-  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_2&theme=radical&hide_border=true" alt="Projekt 2" width="48%" />
+  <a href="https://github.com/MrPickle311/[OTHER_REPO_NAME]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=[OTHER_REPO_NAME]&theme=radical&hide_border=true" alt="Another Project" width="48%" />
   </a>
 </p>
 
 ---
 
-### 📊 Moje statystyki
+### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Pamiętaj, aby zmienić "TWOJ_NICK" na swój login z GitHuba -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK&show_icons=true&theme=radical&hide_border=true" alt="Moje statystyki GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK&layout=compact&theme=radical&hide_border=true" alt="Najczęściej używane języki" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrPickle311&show_icons=true&theme=radical&hide_border=true" alt="MrPickle311 Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPickle311&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
