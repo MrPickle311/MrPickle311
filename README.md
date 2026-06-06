@@ -39,20 +39,11 @@
 ### 🏆 Wyróżnione projekty
 
 <p align="center">
-  <a href="[https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_1](https://github.com/MrPickle311/titan-gitops)">
+  <a href="[https://github.com/MrPickle311/titan-gitops&](https://github.com/MrPickle311/titan-gitops)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=titan-gitops&theme=radical&hide_border=true" alt="Projekt 1" width="48%" />
   </a>
   <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_2&theme=radical&hide_border=true" alt="Projekt 2" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_3&theme=radical&hide_border=true" alt="Projekt 3" width="48%" />
-  </a>
-  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_4&theme=radical&hide_border=true" alt="Projekt 4" width="48%" />
   </a>
 </p>
 
