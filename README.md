@@ -33,6 +33,29 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+
+---
+
+### 🏆 Wyróżnione projekty
+
+<p align="center">
+  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_1&theme=radical&hide_border=true" alt="Projekt 1" width="48%" />
+  </a>
+  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_2&theme=radical&hide_border=true" alt="Projekt 2" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_3&theme=radical&hide_border=true" alt="Projekt 3" width="48%" />
+  </a>
+  <a href="https://github.com/TWOJ_NICK/NAZWA_REPOZYTORIUM_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TWOJ_NICK&repo=NAZWA_REPOZYTORIUM_4&theme=radical&hide_border=true" alt="Projekt 4" width="48%" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Moje statystyki
