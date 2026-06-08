@@ -1,9 +1,9 @@
-<h1 align="center">Hi there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there! I'm Damian 👋</h1>
 
 <h3 align="center">Java Developer from Poland 🇵🇱</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-profile]" target="_blank">
+  <a href="https://www.linkedin.com/in/damian-w%C3%B3jcik-013573200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -12,10 +12,14 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 Currently working on: **[titan-gitops and other Java applications]**
-* 🌱 Currently learning: **[e.g., Advanced Design Patterns, Spring Boot 3, Kubernetes]**
-* 👯 Looking to collaborate on: **[Interesting Open Source Java projects]**
-* 📫 How to reach me: **[Your email address]**
+I am a Java Engineer with deep expertise in the Fintech domain and strong DevOps skills. I have experience working with monolithic, microservices, and event-driven architectures. My goal is to continuously drive my career forward as a distributed systems engineer. I have a proven track record of delivering critical projects under pressure, which is validated by my daily work and multiple Hackathon awards.
+
+* 🔭 **Currently working on:** Performance optimization of high-volume transaction systems and an innovative educational platform called "Book Course Converter" using LLM integration and RAG.
+* 🌱 **Tech stack focus:** Java, Kotlin, Spring Boot, Apache Kafka, Kubernetes, and AWS.
+* 🏆 **Hackathon Winner:** I have won special awards at Spaceshield and Legal Hackathon 2025. I also secured 2nd and 3rd places at the BEST Hacking League in 2024.
+* 💬 **Ask me about:** Distributed systems, Event-Driven architectures, API design, and migrating legacy software to modern microservices.
+* 📫 **How to reach me:** [damianwk1999@gmail.com](mailto:damianwk1999@gmail.com) or check out my [Medium blog](https://medium.com/@damianwk1999/how-to-enhance-real-time-data-with-ml-algorithm-5454baedd1af).
+* ⚡ **Fun fact:** I previously developed near real-time systems for an autonomous vehicle using Python and ROS!
 
 ### 🛠️ Technologies & Tools
 
