@@ -65,13 +65,5 @@ I am a Java Engineer with deep expertise in the Fintech domain and strong DevOps
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="20" height="20" align="top" /> [**titan-gitops**](https://github.com/MrPickle311/titan-gitops) - *Homelab cluster*
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20" align="top" /> [**Payments System**](https://github.com/MrPickle311/payments-system) - *Distributed system for making payments*
-* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20" height="20" align="top" /> [**kolejny-projekt**](https://github.com/MrPickle311/link) - *Opis aplikacji opartej na Spring Boot.*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrPickle311&show_icons=true&theme=radical&hide_border=true" alt="MrPickle311 Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPickle311&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="25" height="25" align="top" /> [**MySensorFactory (Ammonia Factory)**](https://github.com/MySensorFactory) - *A distributed system of web microservices and data processing services for collecting sensor data. Built with Spring Boot, Hibernate, and Kafka. Fully provisioned on AWS using CloudFormation, Lambda, SQS/SNS fanout, and monitored via CloudWatch.*
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="20" height="20" align="top" /> [**Book Course Converter**](https://github.com/MrPickle311/[YOUR_REPO_NAME]) - *An innovative platform converting PDF books into interactive courses using LLM integration, RAG, and MongoDB Atlas.*
