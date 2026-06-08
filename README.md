@@ -37,11 +37,9 @@
 
 ### 🏆 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MrPickle311/titan-gitops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrPickle311&repo=titan-gitops&theme=radical&hide_border=true" alt="titan-gitops" />
-  </a>
-</p>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" width="20" height="20" align="top" /> [**titan-gitops**](https://github.com/MrPickle311/titan-gitops) - *Homelab cluster*
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="20" height="20" align="top" /> [**Payments System**](https://github.com/MrPickle311/payments-system) - *Distributed system for making payments*
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="20" height="20" align="top" /> [**kolejny-projekt**](https://github.com/MrPickle311/link) - *Opis aplikacji opartej na Spring Boot.*
 
 ---
 
