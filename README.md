@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I'm Damian 👋</h1>
 
-<h3 align="center">Java Developer from Poland 🇵🇱</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damian-w%C3%B3jcik-013573200/" target="_blank">
